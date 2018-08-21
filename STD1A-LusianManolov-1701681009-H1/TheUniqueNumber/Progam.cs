@@ -11,7 +11,7 @@ namespace TheUniqueNumber
         static void Main(string[] args)
         {
             double PI = Math.PI;
-            Console.WriteLine("How old are you?"); ;
+            Console.WriteLine(How old are you?");
             int age = int.Parse(Console.ReadLine());
             Console.WriteLine($"Enter last 4 digit of your faculty number");
             int facultyNumber = int.Parse(Console.ReadLine());
